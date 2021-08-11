@@ -1,4 +1,4 @@
-package com.test.com.test.dao;
+package com.test.dao;
 
 public interface GitMapper {
     public void add();
