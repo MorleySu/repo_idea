@@ -27,6 +27,7 @@ public class Mycontroller {
         //相当于request.setAttribute("myname",name);
        // mv.addObject("myStudent",student);
         mv.setViewName("show");
+        //11111111111111111111111111111111
         return mv;
     }
 
